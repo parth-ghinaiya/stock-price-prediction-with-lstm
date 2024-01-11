@@ -35,5 +35,5 @@ Future enhancements may include improving the accuracy of the predictions, incor
 
 For any queries or support, please contact the project owner.
 
-1. (nikhilmaguwala)[https://github.com/nikhilmaguwala]
-2. (parth-ghinaiya)[https://github.com/parth-ghinaiya]
+1. [nikhilmaguwala](https://github.com/nikhilmaguwala)
+2. [parth-ghinaiya](https://github.com/parth-ghinaiya)
