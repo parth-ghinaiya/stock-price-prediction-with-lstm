@@ -3,6 +3,8 @@
 
 Stock Price Prediction with LSTM (Long Short Term Memory) is a machine learning project that uses LSTM, a type of recurrent neural network, to predict stock prices. The model takes historical stock price data as input and outputs the predicted future prices. This project demonstrates the application of deep learning techniques in financial markets for making informed trading decisions.
 
+![alt text](https://github.com/parth-ghinaiya/stock-price-prediction-with-lstm/blob/master/stock_price_prediction_lstm.png?raw=true)
+
 ## Installation
 
 To run this project, you need to install yfinance and tensorflow libraries. You can install these libraries using pip:
