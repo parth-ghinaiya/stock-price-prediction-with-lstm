@@ -15,7 +15,7 @@ To run this project, you need to install yfinance and tensorflow libraries. You 
     
 ## Usage/Examples
 
-The project fetches stock data from Yahoo Finance using the yfinance library. The data is then split into training and testing datasets. An LSTM model is trained on the stock data using TensorFlow. The trained model is then used to predict stock prices. The predicted and actual prices are plotted on a line chart for comparison. The Root Mean Squared Error (RMSE) and accuracy of the model are calculated.
+The project fetches stock data from Yahoo Finance using the yfinance library. The data is then split into training and testing datasets. An LSTM model is trained on the stock data using TensorFlow. The trained model is then used to predict stock prices. The predicted and actual prices are plotted on a line chart for comparison. The Mean Absolute Error (MAE) and accuracy of the model are calculated.
 
 
 ## Features
@@ -24,7 +24,7 @@ The project fetches stock data from Yahoo Finance using the yfinance library. Th
 - Data Preprocessing: Splits the data into training and testing datasets.
 - Model Training: Trains an LSTM model on the stock data.
 - Prediction: Uses the trained model to predict future stock prices.
-- Evaluation: Compares the predicted and actual prices on a line chart. Calculates RMSE and accuracy of the model.
+- Evaluation: Compares the predicted and actual prices on a line chart. Calculates MAE and accuracy of the model.
 
 
 ## Known Issues
